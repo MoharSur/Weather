@@ -1,6 +1,6 @@
 # weather
 
-A new Flutter project.
+A weather app created by Mohar Sur in Flutter Technology
 
 ## Getting Started
 
